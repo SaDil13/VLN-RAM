@@ -4,8 +4,8 @@
    <!-- <br /> <font size=3>Under Review</font></b>  -->
 </h2>
 <div>
-<a target="_blank">Ziming&#160;Wei</a><sup>1</sup>,
-<a target="_blank">Bingqian&#160;Lin</a><sup>2</sup>,
+<a target="_blank">Ziming&#160;Wei</a><sup>1*</sup>,
+<a target="_blank">Bingqian&#160;Lin</a><sup>2*</sup>,
 <a target="_blank">Yunshuang&#160;Nie</a><sup>1</sup>,
 <a target="_blank">Jiaqi&#160;Chen</a><sup>3</sup>,
 <a target="_blank">Shikui&#160;Ma</a><sup>4</sup>,
@@ -18,6 +18,7 @@
 <sup>4</sup>Dataa Robotics,&#160</span>
 <sup>5</sup>Huawei Noah’s Ark Lab</span>
 <br />
+<sup>*&#160;</sup>Equal contribution&#160;&#160;</span>
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
 <div align="center">
