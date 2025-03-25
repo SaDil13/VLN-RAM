@@ -22,7 +22,7 @@
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
 <div align="center">
-    <a href="https://arxiv.org/abs/" target="_blank">
+    <a href="https://arxiv.org/abs/2503.18065" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
 </div>
 </div>
@@ -35,7 +35,7 @@ Data scarcity is a long-standing challenge in the Vision-Language Navigation (VL
 ![motivation](assets/motivation.png)
 
 ## :new: Updates
-- [03/2025] [Arxiv paper](https://arxiv.org/abs/) released.
+- [03/2025] [Arxiv paper](https://arxiv.org/abs/) and code released.
 
 ______________________________________________________________________
 
@@ -130,7 +130,15 @@ bash scripts/run_r4r.sh
 # Citation
 If you find this work useful, please consider citing:
 ```bibtex
-
+@misc{wei2025unseenseenrewritingobservationinstruction,
+      title={Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation}, 
+      author={Ziming Wei and Bingqian Lin and Yunshuang Nie and Jiaqi Chen and Shikui Ma and Hang Xu and Xiaodan Liang},
+      year={2025},
+      eprint={2503.18065},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.18065}, 
+}
 ```
 
 
