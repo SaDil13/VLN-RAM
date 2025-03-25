@@ -35,7 +35,7 @@ Data scarcity is a long-standing challenge in the Vision-Language Navigation (VL
 ![motivation](assets/motivation.png)
 
 ## :new: Updates
-- [03/2025] [Arxiv paper](https://arxiv.org/abs/) and code released.
+- [03/2025] [Arxiv paper](https://arxiv.org/abs/2503.18065) and code released.
 
 ______________________________________________________________________
 
