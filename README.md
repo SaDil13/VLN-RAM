@@ -36,6 +36,7 @@ Data scarcity is a long-standing challenge in the Vision-Language Navigation (VL
 
 ## :new: Updates
 - [03/2025] [Arxiv paper](https://arxiv.org/abs/2503.18065) and code released.
+- [03/2025] We will release the model checkpoint and corresponding visual features soon for VLN training.
 
 ______________________________________________________________________
 
@@ -109,7 +110,7 @@ python instr_data.py
 
 1. Follow [this](https://github.com/cshizhe/VLN-DUET) to install our baseline method VLN-DUET.
 
-2. Extract the CLIP ViT B/16 features or CLIP ViT L/14 features following [this](https://github.com/clip-vil/CLIP-ViL/tree/master/CLIP-ViL-VLN).
+2. Extract the CLIP ViT B/16 features or CLIP ViT L/14 features following [this](https://github.com/clip-vil/CLIP-ViL/tree/master/CLIP-ViL-VLN) or utilize our pre-extracted visual features and model checkpoints.
 
 3. Pretrain and then finetune based on the scripts.
 
