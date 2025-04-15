@@ -132,14 +132,11 @@ bash scripts/run_r4r.sh
 # Citation
 If you find this work useful, please consider citing:
 ```bibtex
-@misc{wei2025unseenseenrewritingobservationinstruction,
-      title={Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation}, 
-      author={Ziming Wei and Bingqian Lin and Yunshuang Nie and Jiaqi Chen and Shikui Ma and Hang Xu and Xiaodan Liang},
-      year={2025},
-      eprint={2503.18065},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.18065}, 
+@article{wei2025unseen,
+  title={Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation},
+  author={Wei, Ziming and Lin, Bingqian and Nie, Yunshuang and Chen, Jiaqi and Ma, Shikui and Xu, Hang and Liang, Xiaodan},
+  journal={arXiv preprint arXiv:2503.18065},
+  year={2025}
 }
 ```
 
