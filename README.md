@@ -5,11 +5,11 @@
 </h2>
 <div>
 <a target="_blank" href="http://sadil13.github.io/">Ziming&#160;Wei</a><sup>1*</sup>,
-<a target="_blank">Bingqian&#160;Lin</a><sup>2*</sup>,
-<a target="_blank">Yunshuang&#160;Nie</a><sup>1</sup>,
-<a target="_blank">Jiaqi&#160;Chen</a><sup>3</sup>,
-<a target="_blank">Shikui&#160;Ma</a><sup>4</sup>,
-<a target="_blank">Hang&#160;Xu</a><sup>5</sup>,
+<a href="https://expectorlin.github.io/" target="_blank">Bingqian&#160;Lin</a><sup>2*</sup>,
+<a href="https://scholar.google.com/citations?user=jV19-sIAAAAJ" target="_blank">Yunshuang&#160;Nie</a><sup>1</sup>,
+<a href="https://chen-judge.github.io/" target="_blank">Jiaqi&#160;Chen</a><sup>3</sup>,
+<a href="https://openreview.net/profile?id=~Shikui_Ma1" target="_blank">Shikui&#160;Ma</a><sup>4</sup>,
+<a href="https://xuhangcn.github.io/" target="_blank">Hang&#160;Xu</a><sup>5</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=voxznZAAAAAJ">Xiaodan&#160;Liang</a><sup>1&#9993</sup>
 </div>
 <sup>1</sup>Shenzhen Campus of Sun Yat-Sen University,&#160</span>
@@ -44,13 +44,15 @@ ______________________________________________________________________
 
 # Contents
 
-- [Installation](#Installation)
-- [Get VLN-RAM Data](#Get-VLN-RAM-Data)
-  - [Generate Caption Data](#Generate-Caption-Data)
-  - [Generate Panorama](#Generate-Panorama)
-  - [Generate Instructions](#Generate-Instructions)
-- [VLN Training](#VLN-Training)
-- [Citation](#Citation)
+- [Contents](#contents)
+- [Installation](#installation)
+- [Get VLN-RAM Data](#get-vln-ram-data)
+  - [1. Generate Caption Data](#1-generate-caption-data)
+  - [2. Generate Panorama](#2-generate-panorama)
+  - [3. Generate Instructions](#3-generate-instructions)
+- [VLN Training](#vln-training)
+- [Citation](#citation)
+- [Acknowledgement](#acknowledgement)
 
 
 
