@@ -13,7 +13,7 @@
 <a target="_blank" href="https://scholar.google.com/citations?user=voxznZAAAAAJ">Xiaodan&#160;Liang</a><sup>1&#9993</sup>
 </div>
 <sup>1</sup>Shenzhen Campus of Sun Yat-Sen University,&#160</span>
-<sup>2</sup>Shanghai Jiao Tong University,&#160</span>
+<sup>2</sup>Shanghai Jiao Tong University,&#160</span><br>
 <sup>3</sup>The University of Hong Kong,&#160</span>
 <sup>4</sup>Dataa Robotics,&#160</span>
 <sup>5</sup>Huawei Noah’s Ark Lab</span>
