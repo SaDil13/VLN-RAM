@@ -1,6 +1,6 @@
 <div align="center">
 <h2 align="center">
-   <b>Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation
+   <b>Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</b> 
    <!-- <br /> <font size=3>Under Review</font></b>  -->
 </h2>
 <div>
