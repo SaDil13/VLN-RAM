@@ -1,8 +1,8 @@
 <div align="center">
 <h2 align="center">
-   <b>Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation
-   <br> <font size=3>IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2025)</font></b> 
+   <b>Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</b> 
 </h2>
+<b><font size=3>IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2025)</font></b> 
 <div>
 <a target="_blank" href="http://sadil13.github.io/">Ziming&#160;Wei</a><sup>1*</sup>,
 <a href="https://expectorlin.github.io/" target="_blank">Bingqian&#160;Lin</a><sup>2*</sup>,
