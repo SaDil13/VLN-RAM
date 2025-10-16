@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">
-   <b>Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</b> 
-   <!-- <br /> <font size=3>Under Review</font></b>  -->
+   <b>Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation
+   <br> <font size=3>IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2025)</font></b> 
 </h2>
 <div>
 <a target="_blank" href="http://sadil13.github.io/">Ziming&#160;Wei</a><sup>1*</sup>,
