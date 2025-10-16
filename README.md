@@ -10,13 +10,14 @@
 <a href="https://chen-judge.github.io/" target="_blank">Jiaqi&#160;Chen</a><sup>3</sup>,
 <a href="https://openreview.net/profile?id=~Shikui_Ma1" target="_blank">Shikui&#160;Ma</a><sup>4</sup>,
 <a href="https://xuhangcn.github.io/" target="_blank">Hang&#160;Xu</a><sup>5</sup>,
-<a target="_blank" href="https://scholar.google.com/citations?user=voxznZAAAAAJ">Xiaodan&#160;Liang</a><sup>1&#9993</sup>
+<a target="_blank" href="https://scholar.google.com/citations?user=voxznZAAAAAJ">Xiaodan&#160;Liang</a><sup>1,6&#9993</sup>
 </div>
 <sup>1</sup>Shenzhen Campus of Sun Yat-Sen University,&#160</span>
 <sup>2</sup>Shanghai Jiao Tong University,&#160</span><br>
 <sup>3</sup>The University of Hong Kong,&#160</span>
-<sup>4</sup>Dataa Robotics,&#160</span>
+<sup>4</sup>Hunan Artificial Intelligence and Robotics Institute Co., Ltd.,&#160</span><br>
 <sup>5</sup>Huawei Noah’s Ark Lab</span>
+<sup>6</sup>Peng Cheng Laboratory</span>
 <br />
 <sup>*&#160;</sup>Equal contribution&#160;&#160;</span>
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
@@ -35,9 +36,11 @@ Data scarcity is a long-standing challenge in the Vision-Language Navigation (VL
 ![motivation](assets/motivation.png)
 
 ## :new: Updates
+- [10/2025] 🎉🎉🎉 Our paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2025).
+- [04/2025] Our visual features and instructions for VLN training released.
 - [03/2025] [Arxiv paper](https://arxiv.org/abs/2503.18065) and code released.
 <!-- - [03/2025] We will release our visual features and instructions for VLN training soon. -->
-- [04/2025] Our visual features and instructions for VLN training released.
+
 
 ______________________________________________________________________
 
@@ -145,6 +148,6 @@ If you find this work useful, please consider citing:
 
 
 # Acknowledgement
-Some of the codes are built upon [VLN-DUET](https://github.com/cshizhe/VLN-DUET), [Equirec2Perspec](https://github.com/fuenwang/Equirec2Perspec), [Tag2Text](https://github.com/xinyu1205/recognize-anything) and [MultiDiffusion](https://github.com/omerbt/MultiDiffusion). Thanks them for their great works!
+Some of the codes are built upon [VLN-DUET](https://github.com/cshizhe/VLN-DUET), [Equirec2Perspec](https://github.com/fuenwang/Equirec2Perspec), [Tag2Text](https://github.com/xinyu1205/recognize-anything) and [MultiDiffusion](https://github.com/omerbt/MultiDiffusion). Thank them for their great works!
 
 
