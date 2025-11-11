@@ -12,7 +12,7 @@
 <a href="https://xuhangcn.github.io/" target="_blank">Hang&#160;Xu</a><sup>5</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=voxznZAAAAAJ">Xiaodan&#160;Liang</a><sup>1,6&#9993</sup>
 </div>
-<sup>1</sup>Shenzhen Campus of Sun Yat-Sen University,&#160</span>
+<sup>1</sup>Shenzhen Campus of Sun Yat-sen University,&#160</span>
 <sup>2</sup>Shanghai Jiao Tong University,&#160</span><br>
 <sup>3</sup>The University of Hong Kong,&#160</span>
 <sup>4</sup>Hunan Artificial Intelligence and Robotics Institute Co., Ltd.,&#160</span><br>
@@ -25,6 +25,10 @@
 <div align="center">
     <a href="https://arxiv.org/abs/2503.18065" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+    <a href="https://ieeexplore.ieee.org/document/11236502" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE-document-blue?logo=ieee&logoColor=white" alt="IEEE Badge">
+</a>
+
 </div>
 </div>
 
@@ -36,7 +40,7 @@ Data scarcity is a long-standing challenge in the Vision-Language Navigation (VL
 ![motivation](assets/motivation.png)
 
 ## :new: Updates
-- [10/2025] 🎉🎉🎉 Our paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2025).
+- [10/2025] 🎉🎉🎉 Our paper has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2025)**.
 - [04/2025] Our visual features and instructions for VLN training released.
 - [03/2025] [Arxiv paper](https://arxiv.org/abs/2503.18065) and code released.
 <!-- - [03/2025] We will release our visual features and instructions for VLN training soon. -->
@@ -140,8 +144,9 @@ If you find this work useful, please consider citing:
 @article{wei2025unseen,
   title={Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation},
   author={Wei, Ziming and Lin, Bingqian and Nie, Yunshuang and Chen, Jiaqi and Ma, Shikui and Xu, Hang and Liang, Xiaodan},
-  journal={arXiv preprint arXiv:2503.18065},
-  year={2025}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
